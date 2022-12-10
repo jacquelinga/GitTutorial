@@ -1,1 +1,2 @@
 {"Base URL":"https://random-d.uk/api","Upload":"https://random-d.uk/add","v1":{"GET":["/random","/quack","randomimg","randomgif","/images/:num.jpg","/gifs/:num.gif","/http/:code.jpg"]},"v2":{"GET":["/random","/quack","/randomimg","/list","/:num.jpg","/:num.gif","/http/:code"]}}
+''''
